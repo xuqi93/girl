@@ -8,5 +8,6 @@ public class Example {
     @RequestMapping("/")
     String  home(){
         return "hello world";
+
     }
 }
